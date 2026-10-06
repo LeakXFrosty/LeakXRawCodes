@@ -24,6 +24,9 @@
   <a href="https://discord.gg/lekx">
     <img src="https://img.shields.io/badge/Discord-Join%20LeakX-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord"/>
   </a>
+  <a href="https://github.com/LeakXFrosty/LeakXRawCodes">
+    <img src="https://img.shields.io/badge/GitHub-LeakXFrosty-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  </a>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000" alt="Bash"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000000" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" alt="Windows"/>
@@ -32,10 +35,18 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=gold&labelColor=000000&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=cyan&labelColor=000000&logo=github" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=red&labelColor=000000&logo=github" alt="Issues"/>
-  <img src="https://img.shields.io/github/license/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=magenta&labelColor=000000" alt="License"/>
+  <a href="https://github.com/LeakXFrosty/LeakXRawCodes/stargazers">
+    <img src="https://img.shields.io/github/stars/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=gold&labelColor=000000&logo=github" alt="Stars"/>
+  </a>
+  <a href="https://github.com/LeakXFrosty/LeakXRawCodes/network/members">
+    <img src="https://img.shields.io/github/forks/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=cyan&labelColor=000000&logo=github" alt="Forks"/>
+  </a>
+  <a href="https://github.com/LeakXFrosty/LeakXRawCodes/issues">
+    <img src="https://img.shields.io/github/issues/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=red&labelColor=000000&logo=github" alt="Issues"/>
+  </a>
+  <a href="https://github.com/LeakXFrosty/LeakXRawCodes/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=magenta&labelColor=000000" alt="License"/>
+  </a>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20LeakX-ff0066?style=for-the-badge&labelColor=000000" alt="Made with Love"/>
 </p>
 
@@ -43,12 +54,12 @@
 
 <!-- ═══════════════ VISITOR COUNTER ═══════════════ -->
 
-<img src="https://komarev.com/ghpvc/?username=LeakXFrosty&label=Visitors&color=ff00ff&style=for-the-badge" alt="Visitors"/>
-<img src="https://img.shields.io/github/last-commit/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=magenta&labelColor=000000" alt="Last Commit"/>
-<img src="https://img.shields.io/github/repo-size/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=cyan&labelColor=000000" alt="Repo Size"/>
-<img src="https://img.shields.io/github/languages/count/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=purple&labelColor=000000" alt="Languages"/>
-
-<br>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=LeakXFrosty&label=Visitors&color=ff00ff&style=for-the-badge" alt="Visitors"/>
+  <img src="https://img.shields.io/github/last-commit/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=magenta&labelColor=000000" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/repo-size/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=cyan&labelColor=000000" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/languages/count/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=purple&labelColor=000000" alt="Languages"/>
+</p>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
 
@@ -66,8 +77,8 @@
 
 | 🎯 | 🎯 | 🎯 |
 |:--:|:--:|:--:|
-| [**✨ Features**](#-features) | [**📦 Contents**](#-whats-inside) | [**🚀 Install**](#-quick-install) |
-| [**🎬 Usage**](#-usage) | [**💬 Community**](#-community) | [**🤝 Contribute**](#-contributing) |
+| [**✨ Features**](#-features) | [**📦 Contents**](#-whats-inside) | [**🚀 Quick Install**](#-quick-install) |
+| [**🎬 Usage**](#-usage) | [**💬 Community**](#-community) | [**🤝 Contributing**](#-contributing) |
 | [**📜 License**](#-license) | [**⭐ Support**](#-show-your-support) | [**🖤 LeakX**](#-leakx) |
 
 </div>
@@ -169,13 +180,14 @@
 
 | 📄 File | 🖥️ Platform | 📝 Description |
 |:--------|:-----------:|:---------------|
-| `movies.ps1`  | 🪟 Windows | **MovieBox-Tui** PowerShell script — animated, LeakX theme |
-| `install.ps1` | 🪟 Windows | MovieBox-Tui installer — full setup & PATH config |
-| `install.sh`  | 🐧 Linux / macOS | MovieBox-Tui installer — Bash, same features |
-| `*.sh`        | 🐧 Linux / macOS | Raw bash utility scripts |
-| `*.ps1`       | 🪟 Windows | PowerShell automation scripts |
-| `SHA256SUMS`  | 🌍 All | Checksum verification file |
-| `LICENSE`     | 🌍 All | MIT License |
+| [`movies.ps1`](https://github.com/LeakXFrosty/LeakXRawCodes/blob/main/movies.ps1) | 🪟 Windows | **MovieBox-Tui** — full PowerShell script with animated UI & LeakX theme |
+| `*.sh` | 🐧 Linux / macOS | Raw bash utility scripts |
+| `*.ps1` | 🪟 Windows | PowerShell automation scripts |
+| [`LICENSE`](https://github.com/LeakXFrosty/LeakXRawCodes/blob/main/LICENSE) | 🌍 All | MIT License |
+
+<br>
+
+**📂 [Browse all files →](https://github.com/LeakXFrosty/LeakXRawCodes)**
 
 </div>
 
@@ -194,4 +206,4 @@
 ### 🪟 **Windows — PowerShell**
 
 ```powershell
-irm  https://raw.githubusercontent.com/LeakXFrosty/LeakXRawCodes/refs/heads/main/movies.ps1 | iex
+irm https://raw.githubusercontent.com/LeakXFrosty/LeakXRawCodes/main/movies.ps1 | iex
