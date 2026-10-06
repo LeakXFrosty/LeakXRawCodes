@@ -1,20 +1,20 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          LEAKX README                            -->
-<!--                    discord.gg/lekx  •  LeakX                     -->
+<!--                    LEAKX RAW CODES README                        -->
+<!--              discord.gg/lekx  •  LeakXFrosty                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=LEAKX&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Raw%20Scripts%20%E2%80%A2%20Installers%20%E2%80%A2%20Automation&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=230&section=header&text=LEAKX&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Raw%20Codes%20%E2%80%A2%20Scripts%20%E2%80%A2%20Installers&descAlignY=58&descSize=20" width="100%"/>
 
 <!-- ═══════════════ ASCII BANNER ═══════════════ -->
 
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%E2%9A%A1+Raw+Bash+Scripts+%E2%80%A2+PowerShell+Installers;%F0%9F%9A%80+Fast+Setup+%C2%B7+%F0%9F%8E%A8+Animated+UI+%C2%B7+%F0%9F%96%A4+Black+Theme" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=%E2%9A%A1+Raw+Bash+Scripts+%E2%80%A2+PowerShell+Installers;%F0%9F%9A%80+Fast+Setup+%C2%B7+%F0%9F%8E%A8+Animated+UI+%C2%B7+%F0%9F%96%A4+Black+Theme" alt="Typing SVG"/>
 
 <br>
 
@@ -32,10 +32,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/LeakX?style=for-the-badge&color=gold&labelColor=000000&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/LeakX?style=for-the-badge&color=cyan&labelColor=000000&logo=github" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/LeakX?style=for-the-badge&color=red&labelColor=000000&logo=github" alt="Issues"/>
-  <img src="https://img.shields.io/github/license/YOUR_USERNAME/LeakX?style=for-the-badge&color=magenta&labelColor=000000" alt="License"/>
+  <img src="https://img.shields.io/github/stars/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=gold&labelColor=000000&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=cyan&labelColor=000000&logo=github" alt="Forks"/>
+  <img src="https://img.shields.io/github/issues/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=red&labelColor=000000&logo=github" alt="Issues"/>
+  <img src="https://img.shields.io/github/license/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=magenta&labelColor=000000" alt="License"/>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20LeakX-ff0066?style=for-the-badge&labelColor=000000" alt="Made with Love"/>
 </p>
 
@@ -43,9 +43,12 @@
 
 <!-- ═══════════════ VISITOR COUNTER ═══════════════ -->
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=ff00ff&style=for-the-badge" alt="Visitors"/>
-<img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/LeakX?style=for-the-badge&color=magenta&labelColor=000000" alt="Last Commit"/>
-<img src="https://img.shields.io/github/repo-size/YOUR_USERNAME/LeakX?style=for-the-badge&color=cyan&labelColor=000000" alt="Repo Size"/>
+<img src="https://komarev.com/ghpvc/?username=LeakXFrosty&label=Visitors&color=ff00ff&style=for-the-badge" alt="Visitors"/>
+<img src="https://img.shields.io/github/last-commit/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=magenta&labelColor=000000" alt="Last Commit"/>
+<img src="https://img.shields.io/github/repo-size/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=cyan&labelColor=000000" alt="Repo Size"/>
+<img src="https://img.shields.io/github/languages/count/LeakXFrosty/LeakXRawCodes?style=for-the-badge&color=purple&labelColor=000000" alt="Languages"/>
+
+<br>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
 
@@ -192,4 +195,4 @@
 ### 🪟 **Windows — PowerShell**
 
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/LeakX/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/LeakXFrosty/LeakXRawCodes/main/install.ps1 | iex
