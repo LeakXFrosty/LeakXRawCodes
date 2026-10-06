@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    LEAKX RAW CODES README                        -->
-<!--              discord.gg/lekx  •  LeakXFrosty                     -->
+<!--              discord.gg/leakx  •  LeakXFrosty                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -21,7 +21,7 @@
 <!-- ═══════════════ BADGES ═══════════════ -->
 
 <p>
-  <a href="https://discord.gg/lekx">
+  <a href="https://discord.gg/leakx">
     <img src="https://img.shields.io/badge/Discord-Join%20LeakX-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord"/>
   </a>
   <a href="https://github.com/LeakXFrosty/LeakXRawCodes">
@@ -78,8 +78,8 @@
 | 🎯 | 🎯 | 🎯 |
 |:--:|:--:|:--:|
 | [**✨ Features**](#-features) | [**📦 Contents**](#-whats-inside) | [**🚀 Quick Install**](#-quick-install) |
-| [**🎬 Usage**](#-usage) | [**💬 Community**](#-community) | [**🤝 Contributing**](#-contributing) |
-| [**📜 License**](#-license) | [**⭐ Support**](#-show-your-support) | [**🖤 LeakX**](#-leakx) |
+| [**🪟 Windows**](#-windows--powershell) | [**🐧 Linux / macOS**](#-linux--macos--bash) | [**🎬 Usage**](#-usage) |
+| [**💬 Community**](#-community) | [**🤝 Contributing**](#-contributing) | [**📜 License**](#-license) |
 
 </div>
 
@@ -203,7 +203,15 @@
 
 <br>
 
+Choose your platform 👇
+
+</div>
+
+---
+
 ### 🪟 **Windows — PowerShell**
+
+**PowerShell kholo** (Admin recommend) aur yeh command chalao:
 
 ```powershell
 irm https://raw.githubusercontent.com/LeakXFrosty/LeakXRawCodes/main/movies.ps1 | iex
