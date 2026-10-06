@@ -64,7 +64,7 @@
 
 ## 📖 **Table of Contents**
 
-| <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="24"> | <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="24"> | <img src="https://cdn-icons-png.flaticon.com/512/1828/1828665.png" width="24"> |
+| 🎯 | 🎯 | 🎯 |
 |:--:|:--:|:--:|
 | [**✨ Features**](#-features) | [**📦 Contents**](#-whats-inside) | [**🚀 Install**](#-quick-install) |
 | [**🎬 Usage**](#-usage) | [**💬 Community**](#-community) | [**🤝 Contribute**](#-contributing) |
@@ -87,67 +87,67 @@
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="70"><br><br>
-<b>⚡ One-Liner Installs</b><br>
+<h1>⚡</h1>
+<b>One-Liner Installs</b><br>
 <sub>Copy, paste, done.<br>Zero setup needed.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="70"><br><br>
-<b>🎨 Animated UI</b><br>
+<h1>🎨</h1>
+<b>Animated UI</b><br>
 <sub>ASCII banners,<br>spinners & reveals.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828665.png" width="70"><br><br>
-<b>🖤 Black Theme</b><br>
+<h1>🖤</h1>
+<b>Black Theme</b><br>
 <sub>Clean, dark,<br>minimal aesthetic.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="70"><br><br>
-<b>🔒 SHA256 Verified</b><br>
+<h1>🔒</h1>
+<b>SHA256 Verified</b><br>
 <sub>Cryptographic<br>checksum check.</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2921/2921226.png" width="70"><br><br>
-<b>🧩 Modular Scripts</b><br>
+<h1>🧩</h1>
+<b>Modular Scripts</b><br>
 <sub>Raw bash + PS<br>files included.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="70"><br><br>
-<b>🌍 Cross-Platform</b><br>
+<h1>🌍</h1>
+<b>Cross-Platform</b><br>
 <sub>Windows · Linux<br>· macOS ready.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2921/2921822.png" width="70"><br><br>
-<b>🔄 Auto-Updates</b><br>
+<h1>🔄</h1>
+<b>Auto-Updates</b><br>
 <sub>Always fetches<br>latest release.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/3524/3524636.png" width="70"><br><br>
-<b>🛠️ Custom Path</b><br>
+<h1>🛠️</h1>
+<b>Custom Path</b><br>
 <sub>Full control over<br>install location.</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/861/861512.png" width="70"><br><br>
-<b>🚀 Blazing Fast</b><br>
+<h1>🚀</h1>
+<b>Blazing Fast</b><br>
 <sub>Minimal overhead,<br>max performance.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="70"><br><br>
-<b>💬 Active Discord</b><br>
+<h1>💬</h1>
+<b>Active Discord</b><br>
 <sub>Get help anytime<br>from the community.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="70"><br><br>
-<b>🔓 Open Source</b><br>
+<h1>🔓</h1>
+<b>Open Source</b><br>
 <sub>MIT licensed,<br>fork-friendly.</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/1077/1077976.png" width="70"><br><br>
-<b>🎁 Free Forever</b><br>
+<h1>🎁</h1>
+<b>Free Forever</b><br>
 <sub>No paywalls,<br>no BS.</sub>
 </td>
 </tr>
@@ -167,14 +167,15 @@
 
 <br>
 
-| <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="28"> File | <img src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" width="28"> Platform | <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="28"> Description |
+| 📄 File | 🖥️ Platform | 📝 Description |
 |:--------|:-----------:|:---------------|
-| <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="20"> `install.ps1` | <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="20"> Windows | **MovieBox-Tui Installer** — PowerShell, animated, LeakX theme |
-| <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="20"> `install.sh`  | <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="20"> Linux / macOS | **MovieBox-Tui Installer** — Bash, same features |
-| <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="20"> `*.sh`        | <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="20"> Linux / macOS | Raw bash utility scripts |
-| <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="20"> `*.ps1`       | <img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="20"> Windows | PowerShell automation scripts |
-| <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="20"> `SHA256SUMS`  | <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20"> All | Checksum verification file |
-| <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="20"> `LICENSE`     | <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20"> All | MIT License |
+| `movies.ps1`  | 🪟 Windows | **MovieBox-Tui** PowerShell script — animated, LeakX theme |
+| `install.ps1` | 🪟 Windows | MovieBox-Tui installer — full setup & PATH config |
+| `install.sh`  | 🐧 Linux / macOS | MovieBox-Tui installer — Bash, same features |
+| `*.sh`        | 🐧 Linux / macOS | Raw bash utility scripts |
+| `*.ps1`       | 🪟 Windows | PowerShell automation scripts |
+| `SHA256SUMS`  | 🌍 All | Checksum verification file |
+| `LICENSE`     | 🌍 All | MIT License |
 
 </div>
 
@@ -189,8 +190,6 @@
 ## 🚀 **Quick Install**
 
 <br>
-
-<img src="https://cdn-icons-png.flaticon.com/512/732/732225.png" width="40">
 
 ### 🪟 **Windows — PowerShell**
 
